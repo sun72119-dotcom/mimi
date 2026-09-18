@@ -1,0 +1,6 @@
+{
+  "name": "課堂隨機抽籤與自動分組工具",
+  "description": "專為教師設計的課堂隨機抽籤與自動分組工具，支援 CSV 上傳與姓名貼上、動態抽籤動畫與音效、重複/不重複設定及視覺化團隊分組。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
